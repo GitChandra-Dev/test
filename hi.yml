@@ -1,0 +1,4 @@
+greeting:
+  message: "Hi Hello"
+  language: English
+  repeat: 1
